@@ -1,4 +1,4 @@
-# Netflix Power BI Dashboard
+# Netflix Tableau Dashboard
 
 
 # Introduction
